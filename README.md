@@ -1,5 +1,5 @@
 Aplicación en React donde puedes crear tareas, eliminarlas o marcarlas como hechas. Trabaja con reducers, custom hooks, localStore y CSS Grid.
 
-Link: https://alexgemas17.github.io/TODO-App/
+Link: https://alexgemas17.github.io/TODOApp/
 
 ![alt text](https://github.com/alexgemas17/TODOApp/blob/master/ejemplo.PNG)
